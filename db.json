@@ -89,20 +89,6 @@
         }
       ],
       "id": 3
-    },
-    {
-      "name": "TEste",
-      "toppings": [
-        {
-          "id": 3,
-          "name": "basil"
-        },
-        {
-          "id": 7,
-          "name": "olive"
-        }
-      ],
-      "id": 4
     }
   ]
 }
